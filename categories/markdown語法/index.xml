@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown語法 on 函式營養</title>
+    <link>http://localhost:1313/categories/markdown%E8%AA%9E%E6%B3%95/</link>
+    <description>Recent content in Markdown語法 on 函式營養</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 22 Feb 2024 21:10:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/markdown%E8%AA%9E%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿柴的第一篇文章</title>
+      <link>http://localhost:1313/blog/test/</link>
+      <pubDate>Thu, 22 Feb 2024 21:10:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/test/</guid>
+      <description>1.內文&#xA;hello&#xA;world&#xA;2.標題&#xA;1個#字號為一級標題&#xA;2個#字號為2級標題&#xA;6個#字號為6級標題&#xA;一級標題 二級標題 六級標題 3.</description>
+    </item>
+  </channel>
+</rss>
