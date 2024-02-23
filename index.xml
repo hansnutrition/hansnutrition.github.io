@@ -10,9 +10,9 @@
     <atom:link href="https://hansnutrition.githug.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇文章</title>
-      <link>https://hansnutrition.githug.io/blog/test-name-important/</link>
+      <link>https://hansnutrition.githug.io/blog/test1/</link>
       <pubDate>Thu, 22 Feb 2024 21:10:00 +0800</pubDate>
-      <guid>https://hansnutrition.githug.io/blog/test-name-important/</guid>
+      <guid>https://hansnutrition.githug.io/blog/test1/</guid>
       <description>1.內文&#xA;hello&#xA;world&#xA;2.標題&#xA;1個#字號為一級標題&#xA;2個#字號為2級標題&#xA;6個#字號為6級標題&#xA;一級標題 二級標題 六級標題 3.</description>
     </item>
     <item>
