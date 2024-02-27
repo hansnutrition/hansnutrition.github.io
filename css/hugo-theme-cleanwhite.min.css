@@ -492,9 +492,9 @@ pre code{
     margin-bottom:10px
 }
 .post-preview>.post-meta>a, .post-preview>.post-meta{
-    font-family:Arial, Helvetica, sans-serif,'Microsoft JhengHei';
-    color:rgb(172, 172, 172);
-    font-weight: 300;
+    font-family:'Microsoft JhengHei';
+    color:rgb(161, 161, 161);
+    font-weight: 340;
     font-style:italic;
     margin-top:revert-layer;
 }
