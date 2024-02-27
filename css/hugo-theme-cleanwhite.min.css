@@ -62,17 +62,17 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 body{
-    font-family:"buntu",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:"Microsoft JhengHei","Buntu",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7;
     font-size:17px;
     color:#404040;
     overflow-x:hidden
 }
 p{
-    margin:30px 0
+    margin:0px 0
 }
 h1,h2,h3,h4,h5,h6{
-    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7;
     line-height:1.1;
     font-weight:700
@@ -249,7 +249,7 @@ pre code{
     left:0;
     width:100%;
     z-index:3;
-    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7
 }
 .navbar-custom .navbar-brand{
@@ -415,7 +415,7 @@ pre code{
     font-size:50px
 }
 .intro-header .site-heading .subheading,.intro-header .page-heading .subheading{
-    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7;
     font-size:18px;
     line-height:1.1;
@@ -441,7 +441,7 @@ pre code{
 }
 
 .intro-header .post-heading .subheading{
-    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:'Microsoft JhengHei',-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7;
     font-size:17px;
     line-height:1.4;
@@ -450,9 +450,9 @@ pre code{
     margin-top:-5px
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
 .intro-header .post-heading .meta{
-    font-family:'Ubuntu','Microsoft JhengHei';
+    font-family:'Microsoft JhengHei',-apple-system;
     font-style:normal;
     font-weight:300;
     font-size:18px
@@ -492,11 +492,11 @@ pre code{
     margin-bottom:10px
 }
 .post-preview>.post-meta>a, .post-preview>.post-meta{
-    font-family:'Ubuntu','Microsoft JhengHei',serif;
-    color:gray;
-    font-size:17px;
-    font-style:normal;
-    margin-top:0
+    font-family:Arial, Helvetica, sans-serif,'Microsoft JhengHei';
+    color:rgb(172, 172, 172);
+    font-weight: 300;
+    font-style:italic;
+    margin-top:revert-layer;
 }
 
 .post-preview>.post-meta>a:hover,.post-preview>.post-meta>a:focus{
@@ -513,13 +513,13 @@ pre code{
         font-size:17px
     }
     .post-preview .post-meta{
-        font-size:18px
+        font-size:17px
     }
 }
 .post-content-preview{
-    font-size:13px;
+    font-size:15px;
     font-style:normal;
-    color:#a3a3a3
+    color:#616161
 }
 .post-content-preview:hover{
     color:#ED9C84
@@ -613,7 +613,7 @@ form .row:first-child .floating-label-form-group{
     border-top:1px solid #eee
 }
 .btn{
-    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7;
     text-transform:uppercase;
     font-size:14px;
@@ -637,7 +637,7 @@ form .row:first-child .floating-label-form-group{
     padding:0 0 20px 0
 }
 .pager li>a,.pager li>span{
-    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7;
     text-transform:uppercase;
     font-size:13px;
@@ -766,7 +766,7 @@ body{
 }
 .one-tag-list .tag-text{
     font-weight:200;
-    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7
 }
 .one-tag-list .post-preview{
