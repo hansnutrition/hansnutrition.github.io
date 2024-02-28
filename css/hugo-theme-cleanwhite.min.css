@@ -743,6 +743,14 @@ body{
 .tag-comments{
     font-size:12px
 }
+
+.card-img {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.15);
+    transition: all 0.2s ease-in-out;
+}
+
 @media only screen and (min-width:768px){
     .tag-comments{
         font-size:14px
@@ -807,7 +815,7 @@ body{
     display:block;
     max-width:100%;
     height:auto;
-    margin:1.5em auto 1.6em auto
+    margin:0.8em auto 1.6em auto
 }
 .navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover{
     background-color:inherit
