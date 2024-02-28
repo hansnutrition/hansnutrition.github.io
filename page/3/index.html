@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-tw">
 <head>
-	<meta name="generator" content="Hugo 0.123.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.123.1">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,8 +11,8 @@
     <meta property="og:type" content="article">
 
     
-    <meta property="og:image" content="http://localhost:1313//img/home-bg.png">
-    <meta property="twitter:image" content="http://localhost:1313//img/home-bg.png" />
+    <meta property="og:image" content="https://hansnutrition.github.io//img/home-bg.png">
+    <meta property="twitter:image" content="https://hansnutrition.github.io//img/home-bg.png" />
     
 
     
@@ -89,7 +89,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">王怡涵營養師</a>
+            <a href="/">
+                <img src="/img/logo.png" alt="logo" width="80" height="80"/>
+            </a>
+            
+          
         </div>
 
         
@@ -97,38 +101,33 @@
         <div id="huxblog_navbar">
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
+
                     <li>
-                        <a href="/">All Posts</a>
+                        <a href="/tags/吃得健康">吃得健康</a>
+                    </li>
+                    <li>
+                        <a href="/tags/臨床營養筆記">臨床營養筆記</a>
+                    </li>
+                    <li>
+                        <a href="/tags/進修筆記">進修筆記</a>
+                    </li>
+                    <li>
+                        <a href="/tags/閱讀心得">閱讀心得</a>
+                    </li>
+                    <li>
+                        <a href="/tags/運動">運動</a>
                     </li>
                     
-                        
-                        <li>
-                            <a href="/categories/life/">life</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/tech/">tech</a>
-                        </li>
-                        
-                        <li>
-                            <a href="/categories/tips/">tips</a>
-                        </li>
-                        
+                    <li>
+                        <a href="/archive">所有文章</a>
+                    </li>
+                    <li>
+                        <a href="/about">關於我</a>
+                    </li>
+
                     
-                    
-		    
-                        <li><a href="/%e5%90%83%e5%be%97%e5%81%a5%e5%ba%b7//">吃得健康</a></li>
-                    
-                        <li><a href="/%e8%87%a8%e5%ba%8a%e7%87%9f%e9%a4%8a%e7%ad%86%e8%a8%98//">臨床營養筆記</a></li>
-                    
-                        <li><a href="/%e9%80%b2%e4%bf%ae%e7%ad%86%e8%a8%98//">進修筆記</a></li>
-                    
-                        <li><a href="/%e9%96%b1%e8%ae%80%e5%bf%83%e5%be%97//">閱讀心得</a></li>
-                    
-                        <li><a href="/%e9%81%8b%e5%8b%95//">運動</a></li>
-                    
-                        <li><a href="/about//">About</a></li>
-                    
+
+
 		            <li>
                         <a href="/search"><i class="fa fa-search"></i></a>
 		           </li>
@@ -202,116 +201,20 @@
 <div data-pagefind-ignore="all">
 
 <div class="post-preview">
-    <a href="http://localhost:1313/2018/04/11/service-mesh-vs-api-gateway/">
+    <a href="https://hansnutrition.github.io/post/chronic-kidney-disease-low-protein-starch/">
         <h2 class="post-title">
-            Service Mesh 和 API Gateway的关系探讨（译文）
+            慢性腎臟病低蛋白澱粉有哪些選擇呢?
         </h2>
 	
         <div class="post-content-preview">
 	
-            API Gateway和Service Mesh的关系是我最近一直在思考的问题，也和同事及社区的朋友之间进行了一些讨论。这篇短文很清晰地总结了两者之间的相似之处以及这两者在微服务架构中的不同用途。
+            如何選擇低蛋白澱粉與注意的事情?
         
         </div>
     </a>
     <p class="post-meta">
     
-        by 王怡涵營養師 on Apr 11, 2018
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://localhost:1313/2018/03/29/what-is-service-mesh-and-istio/">
-        <h2 class="post-title">
-            谈谈微服务架构中的基础设施：Service Mesh与Istio
-        </h2>
-	
-        <h3 class="post-subtitle">
-            Service Mesh模式及Istio开源项目介绍
-        </h3>
-	
-        <div class="post-content-preview">
-	
-            作为一种架构模式，微服务将复杂系统切分为数十乃至上百个小服务，每个服务负责实现一个独立的业务逻辑。这些小服务易于被小型的软件工程师团队所理解和修改，并带来了语言和框架选择灵活性，缩短应用开发上线时间，可根据不同的工作负载和资源要求对服务进行独立缩扩容等优势。另一方面，当应用被拆分为多个微服务进程后，进程内的方法调用变成了了进程间的远程调用。引入了对大量服务的连接、管理和监控的复杂性,本文介绍了Service Mesh模式如何应对微服务架构的这些挑战，以及Service Mesh的明星开源项目Istio。
-        
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        by 王怡涵營養師 on Mar 29, 2018
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://localhost:1313/2018/03/13/use-docker-behind-http-proxy/">
-        <h2 class="post-title">
-            如何配置docker使用HTTP代理
-        </h2>
-	
-        <div class="post-content-preview">
-	
-            如何配置docker使用HTTP代理
-        
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        by 王怡涵營養師 on Mar 13, 2018
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://localhost:1313/2018/02/09/vim-tips/">
-        <h2 class="post-title">
-            Vim Tips
-        </h2>
-	
-        <div class="post-content-preview">
-	
-            Vim Tips and tricks
-        
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        by 王怡涵營養師 on Feb 9, 2018
-        
-        
-    
-    </p>
-
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="http://localhost:1313/2018/02/09/docker-without-sudo/">
-        <h2 class="post-title">
-            如何使用非root用户执行docker命令
-        </h2>
-	
-        <div class="post-content-preview">
-	
-            如何使用非root用户执行docker命令
-        
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        by 王怡涵營養師 on Feb 9, 2018
+        王怡涵營養師 &nbsp; Nov 11, 2018
         
         
     
@@ -331,10 +234,6 @@
         <a href="/page/2/">&larr; Newer Posts</a>
     </li>
     
-    
-    <li class="next">
-        <a href="/page/4/">Older Posts &rarr;</a>
-    </li>
     
 </ul>
 
@@ -415,55 +314,45 @@
             
             
                
-            
-               
-                    <a href="/tags/docker" title="docker">
-                        docker
+                    <a href="/tags/youbike" title="youbike">
+                        youbike
                     </a>
                
             
                
             
                
-                    <a href="/tags/istio" title="istio">
-                        istio
-                    </a>
+            
                
             
                
-                    <a href="/tags/kubernetes" title="kubernetes">
-                        kubernetes
-                    </a>
-               
             
                
-                    <a href="/tags/microservice" title="microservice">
-                        microservice
+                    <a href="/tags/%E5%90%83%E5%BE%97%E5%81%A5%E5%BA%B7" title="吃得健康">
+                        吃得健康
                     </a>
                
             
                
             
                
-                    <a href="/tags/security" title="security">
-                        security
+            
+               
+            
+               
+            
+               
+            
+               
+                    <a href="/tags/%E9%80%B2%E4%BF%AE%E7%AD%86%E8%A8%98" title="進修筆記">
+                        進修筆記
                     </a>
                
             
                
-                    <a href="/tags/service-mesh" title="service mesh">
-                        service mesh
+                    <a href="/tags/%E9%81%8B%E5%8B%95" title="運動">
+                        運動
                     </a>
-               
-            
-               
-                    <a href="/tags/tips" title="tips">
-                        tips
-                    </a>
-               
-            
-               
-            
                
             
                
@@ -539,25 +428,11 @@
             
             
            
-                   <li>
-                       <a href='/index.xml' rel="alternate" type="application/rss+xml" title="王怡涵營養師" >
-                           <span class="fa-stack fa-lg">
-                               <i class="fas fa-circle fa-stack-2x"></i>
-                               <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-                           </span>
-                       </a>
-                   </li>
-            
              </ul>
 		<p class="copyright text-muted">
                     Copyright &copy; 王怡涵營養師 2024
                     <br>
-                    <a href="https://themes.gohugo.io/hugo-theme-cleanwhite">CleanWhite Hugo Theme</a> by <a href="https://zhaohuabing.com">Huabing</a> |
-                    <iframe
-                        style="margin-left: 2px; margin-bottom:-5px;"
-                        frameborder="0" scrolling="0" width="100px" height="20px"
-                        src="https://ghbtns.com/github-btn.html?user=zhaohuabing&repo=hugo-theme-cleanwhite&type=star&count=true" >
-                    </iframe>
+                    <a href="https://themes.gohugo.io/hugo-theme-cleanwhite">CleanWhite Hugo Theme</a> by 王怡涵營養師 </a>
                 </p>
             </div>
         </div>
