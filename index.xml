@@ -16,13 +16,6 @@
       <description>為什麼想讀這本書？ 在人生中依著社會標準追求成功，但往往覺得不足，帶來的失落總是將幸福推得更遙遠，因此想要透過這本書了解如何獲得幸福與滿足 收穫</description>
     </item>
     <item>
-      <title>動機式晤談工作坊</title>
-      <link>https://hansnutrition.github.io/post/motivational-interviewing/</link>
-      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://hansnutrition.github.io/post/motivational-interviewing/</guid>
-      <description>在門診飲食諮詢時，當個案聽到飲食調整的方法，其當下出現抗拒不願意改變或是說知道怎麼做但做不到時，讓我感到無所適從，不知道如何幫助個案有動機做</description>
-    </item>
-    <item>
       <title>為什麼會低血磷? 低血磷怎麼補?</title>
       <link>https://hansnutrition.github.io/post/hypophosphatemia/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
@@ -37,6 +30,13 @@
       <description>在醫療場域中，看到候診的叫號人數不斷累積或是開啟病房會診清單跳出長長的一頁，在緊湊的節奏與壓力中，閱讀與查詢個案的電子病歷後，詢問其飲食習慣</description>
     </item>
     <item>
+      <title>動機式晤談工作坊</title>
+      <link>https://hansnutrition.github.io/post/motivational-interviewing/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://hansnutrition.github.io/post/motivational-interviewing/</guid>
+      <description>在門診飲食諮詢時，當個案聽到飲食調整的方法，其當下出現抗拒不願意改變或是說知道怎麼做但做不到時，讓我感到無所適從，不知道如何幫助個案有動機做</description>
+    </item>
+    <item>
       <title></title>
       <link>https://hansnutrition.github.io/post/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
@@ -48,21 +48,21 @@
       <link>https://hansnutrition.github.io/post/youbike-keelung-river-bikeway/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://hansnutrition.github.io/post/youbike-keelung-river-bikeway/</guid>
-      <description>騎乘時間：五堵車站 → 五堵台鐵舊鐵隧道 → 折返 → 圓山 2小時50分 $50 (含拍照、休息10–15分鐘) 總路程約30公里 (下圖從彩虹橋到民權大橋時，忘記</description>
+      <description>路線 五堵車站 → 五堵台鐵舊鐵隧道 → 折返 → 汐止自行車道 (基隆河左岸) → 上南陽大橋至基隆河右岸 → 基隆河自行車道 (往內湖) → 上大直橋至基隆河左岸 → 圓</description>
     </item>
     <item>
       <title>捷運蘆洲站-大溪老街 youbike</title>
       <link>https://hansnutrition.github.io/post/youbike-daxi-old-street/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://hansnutrition.github.io/post/youbike-daxi-old-street/</guid>
-      <description>騎乘時間：捷運蘆洲站 – 鶯歌國民運動中心 2.5小時又3分鐘 $50 鶯歌國民運動中心 – 大溪中正公園(大溪老街) 時間：1.5小時 $20 總路程約41公里，實際</description>
+      <description>路線：捷運蘆洲站 – 鶯歌國民運動中心 騎乘時間：2.5小時又3分鐘 $50 路線：鶯歌國民運動中心 – 大溪中正公園(大溪老街) 騎乘時間：1.5小時 $20 總路程</description>
     </item>
     <item>
       <title>蘆洲-鶯歌 youbike</title>
-      <link>https://hansnutrition.github.io/post/yinnge-sport-center/</link>
+      <link>https://hansnutrition.github.io/post/youbike-yinnge-sport-center/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://hansnutrition.github.io/post/yinnge-sport-center/</guid>
-      <description>騎乘時間：沿著河濱公園騎-蘆州-三重-五股-新莊-樹林-鶯歌 2小時又46分 $50 總路程約29公里 整段路程非常曬，一定要帶足夠的水（約2L） 從蘆洲</description>
+      <guid>https://hansnutrition.github.io/post/youbike-yinnge-sport-center/</guid>
+      <description>路線 沿著河濱公園騎-蘆州-三重-五股-新莊-樹林-鶯歌 騎乘時間與路程 2小時又46分 $50 總路程約29公里 整段路程非常曬，一定要帶足夠的水（約2L</description>
     </item>
     <item>
       <title>護腦慢老－心智飲食防失智</title>
@@ -70,6 +70,20 @@
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://hansnutrition.github.io/post/mind-diet/</guid>
       <description>失智症是高齡化社會每個人可能會遇到的議題，隨著醫療的進步，人的壽命不斷延長，失智症人口不斷上升，也許未來踏入高齡的我們也和失智症走得更靠近，</description>
+    </item>
+    <item>
+      <title>永和頂溪-三峽老街 youbike</title>
+      <link>https://hansnutrition.github.io/post/youbike-sanxia-old-street/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hansnutrition.github.io/post/youbike-sanxia-old-street/</guid>
+      <description>路線 永和中正橋 — 三峽區公所(三峽老街) 騎乘時間與路程 2.5小時 $40 總路程約25公里 整段路程很少路樹，非常曬，一定要帶足夠的水 自行車到很寬敞，比</description>
+    </item>
+    <item>
+      <title>林口長庚 – 八里十三行博物館 youbike</title>
+      <link>https://hansnutrition.github.io/post/youbike-shihsanhang-museum/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hansnutrition.github.io/post/youbike-shihsanhang-museum/</guid>
+      <description>路線 桃園捷運長庚醫院站 – 八里十三行博物館 沿著文化一路一段（105）經過林口社區運動公園後右轉至仁愛路二段（108） 沿著108走左轉至粉寮路一</description>
     </item>
     <item>
       <title>減重後不復胖飲食法</title>
