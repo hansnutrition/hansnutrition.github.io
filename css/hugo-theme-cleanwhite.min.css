@@ -755,7 +755,7 @@ body{
 a i {
     font-size: 20px;
     margin-right: 17px; /* spacing between icons*/
-    margin-top:10px;
+    margin-top:-8px;
     margin-left:5px;
     color: #646473; /* color of the icons*/
     transition: filter 0.3s;
