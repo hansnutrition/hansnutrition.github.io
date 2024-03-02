@@ -751,6 +751,23 @@ body{
     transition: all 0.2s ease-in-out;
 }
 
+/* 以下社交分享圖案 */
+a i {
+    font-size: 20px;
+    margin-right: 17px; /* spacing between icons*/
+    margin-top:-8px;
+    margin-left:5px;
+    color: #646473; /* color of the icons*/
+    transition: filter 0.3s;
+ }
+ a i:hover {
+    filter: brightness(30%); /* reduces the brightness to 50% on hover */
+}
+ .copy-link {
+    cursor: pointer;  /* Change cursor to hand pointer when hovering */
+ }
+/* 社交分享圖案以上 */
+
 @media only screen and (min-width:768px){
     .tag-comments{
         font-size:14px
