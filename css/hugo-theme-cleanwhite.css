@@ -60,19 +60,19 @@
     padding-left:0;
     margin-right:-15px
 }
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
 body{
-    font-family:"Microsoft JhengHei","Buntu",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica;
     line-height:2;
     font-size:17px;
     color:#404040;
     overflow-x:hidden
 }
 p{
-    margin:0px 0
+    margin:40px 0
 }
 h1,h2,h3,h4,h5,h6{
-    font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
+    font-family:-apple-system, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
     line-height:1.7;
     line-height:1.1;
     font-weight:700
@@ -93,10 +93,14 @@ article{
     overflow:hidden;
 }
 blockquote{
-    color:gray;
-    font-style:italic;
-    font-size:.95em;
-    margin:20px 0 20px
+    color: rgb(55, 55, 55);
+    font-size: .95em;
+    font-family: source-code-pro, Menlo, Monaco, "Courier New", Courier, monospace;
+    background-color: rgb(246, 246, 246);
+    margin: 20px 0 20px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    border-left: 0px solid #eee;
 }
 blockquote p{
     margin:0
@@ -250,7 +254,8 @@ pre code{
     width:100%;
     z-index:3;
     font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
-    line-height:1.7
+    line-height:1.7;
+    padding-right:20px
 }
 .navbar-custom .navbar-brand{
     font-weight:800;
@@ -611,6 +616,7 @@ footer .copyright a:hover,footer .copyright a:focus{
 }
 form .row:first-child .floating-label-form-group{
     border-top:1px solid #eee
+
 }
 .btn{
     font-family:"Microsoft JhengHei",-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
