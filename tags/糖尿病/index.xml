@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>糖尿病 on 王怡涵營養師</title>
-    <link>http://localhost:1313/tags/%E7%B3%96%E5%B0%BF%E7%97%85/</link>
+    <link>https://hansnutrition.github.io/tags/%E7%B3%96%E5%B0%BF%E7%97%85/</link>
     <description>Recent content in 糖尿病 on 王怡涵營養師</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 17 Nov 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E7%B3%96%E5%B0%BF%E7%97%85/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hansnutrition.github.io/tags/%E7%B3%96%E5%B0%BF%E7%97%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>控糖pk賽－低醣飲食 vs 限制熱量飲食</title>
-      <link>http://localhost:1313/post/blood-sugar-control-low-carbohydrate/</link>
+      <link>https://hansnutrition.github.io/post/blood-sugar-control-low-carbohydrate/</link>
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/blood-sugar-control-low-carbohydrate/</guid>
+      <guid>https://hansnutrition.github.io/post/blood-sugar-control-low-carbohydrate/</guid>
       <description>研究結果-懶人包 控制醣類食物份量對血糖的控制效果很好，常常去上課的病友請多多和營養師討論每餐適合您的醣類食物份數 糖尿病友有很大的機會會去上課</description>
     </item>
   </channel>

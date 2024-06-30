@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>進修筆記 on 王怡涵營養師</title>
-    <link>http://localhost:1313/categories/%E9%80%B2%E4%BF%AE%E7%AD%86%E8%A8%98/</link>
+    <link>https://hansnutrition.github.io/categories/%E9%80%B2%E4%BF%AE%E7%AD%86%E8%A8%98/</link>
     <description>Recent content in 進修筆記 on 王怡涵營養師</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E9%80%B2%E4%BF%AE%E7%AD%86%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hansnutrition.github.io/categories/%E9%80%B2%E4%BF%AE%E7%AD%86%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TSPEN研討會｜重症營養照護的適當蛋白質攝取量</title>
-      <link>http://localhost:1313/post/tspen-optimal-protein-amount-in-icu/</link>
+      <link>https://hansnutrition.github.io/post/tspen-optimal-protein-amount-in-icu/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/tspen-optimal-protein-amount-in-icu/</guid>
+      <guid>https://hansnutrition.github.io/post/tspen-optimal-protein-amount-in-icu/</guid>
       <description>今年台灣靜脈營養學會春季學術研討會在高雄醫學大學附設中和紀念醫院舉行，邀請來自日本的外賓講者－中村謙介教授介紹「重症營養照護的適當蛋白質攝取</description>
     </item>
     <item>
       <title>全人關懷實踐工作坊</title>
-      <link>http://localhost:1313/post/holistic-health-care/</link>
+      <link>https://hansnutrition.github.io/post/holistic-health-care/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/holistic-health-care/</guid>
+      <guid>https://hansnutrition.github.io/post/holistic-health-care/</guid>
       <description>在醫療場域中，看到候診的叫號人數不斷累積或是開啟病房會診清單跳出長長的一頁，在緊湊的節奏與壓力中，閱讀與查詢個案的電子病歷後，詢問其飲食習慣</description>
     </item>
     <item>
       <title>動機式晤談工作坊</title>
-      <link>http://localhost:1313/post/motivational-interviewing/</link>
+      <link>https://hansnutrition.github.io/post/motivational-interviewing/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/motivational-interviewing/</guid>
+      <guid>https://hansnutrition.github.io/post/motivational-interviewing/</guid>
       <description>在門診飲食諮詢時，當個案聽到飲食調整的方法，其當下出現抗拒不願意改變或是說知道怎麼做但做不到時，讓我感到無所適從，不知道如何幫助個案有動機做</description>
     </item>
   </channel>
